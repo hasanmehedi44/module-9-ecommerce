@@ -1,0 +1,82 @@
+.orange-bg {
+    background-color: #fceae8;
+}
+.carousel-item {
+    padding: 20px 50px;
+}
+.price {
+    color: #b4131b;
+}
+
+.sticky-top{
+    padding-top: 20x;
+    padding-bottom: 20x;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #d11f5a 0%, #e01414 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 26px;
+    cursor: pointer;
+    border: none;
+
+}
+
+.categories {
+    margin-top: 40px;
+    padding: 29px 29px;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    color: rgb(179, 149, 149);
+    border-radius: 10px;
+}
+
+.cat1 {
+    background-image: linear-gradient(to right, rgb(242, 245, 58) 0%, rgb(248, 233, 22) 100%);
+    
+}
+.cat2 {
+    background-image: linear-gradient(to right, rgb(235, 94, 94) 0%, red 100%);
+    
+}
+.cat3 {
+    background-image: linear-gradient(to right, rgb(83, 83, 241) 0%, blue 100%);
+    ;
+}
+.categories img {
+    width: 100px;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #888888
+}
+
+.shoes-backpack {
+    background-color: #eeece4;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+.subscribe {
+    height: 300px;
+    margin-bottom: 150px;
+}
+
+footer p {
+    text-align: center;
+
+}
+
+
+
+
+
+
